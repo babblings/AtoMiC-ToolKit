@@ -34,7 +34,7 @@ source "$SCRIPTPATH/setup.sh" -m resilio-sync
 source "$SCRIPTPATH/setup.sh" -m rutorrent
 source "$SCRIPTPATH/setup.sh" -m sabnzbdplus
 source "$SCRIPTPATH/setup.sh" -m sickgear
-source "$SCRIPTPATH/setup.sh" -m sickrage
+source "$SCRIPTPATH/setup.sh" -m sickchill
 source "$SCRIPTPATH/setup.sh" -m sonarr
 source "$SCRIPTPATH/setup.sh" -m subsonic
 source "$SCRIPTPATH/setup.sh" -m syncthing

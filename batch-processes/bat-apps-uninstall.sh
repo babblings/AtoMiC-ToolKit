@@ -35,7 +35,7 @@ source "$SCRIPTPATH/setup.sh" -u rtorrent
 source "$SCRIPTPATH/setup.sh" -u rutorrent
 source "$SCRIPTPATH/setup.sh" -u sabnzbdplus
 source "$SCRIPTPATH/setup.sh" -u sickgear
-source "$SCRIPTPATH/setup.sh" -u sickrage
+source "$SCRIPTPATH/setup.sh" -u sickchill
 source "$SCRIPTPATH/setup.sh" -u sonarr
 source "$SCRIPTPATH/setup.sh" -u subsonic
 source "$SCRIPTPATH/setup.sh" -u syncthing

@@ -94,9 +94,9 @@ source "$SCRIPTPATH/setup.sh" -u sabnzbdplus
 source "$SCRIPTPATH/setup.sh" -i sickgear
 # source "$SCRIPTPATH/setup.sh" -x sickgear
 source "$SCRIPTPATH/setup.sh" -u sickgear
-source "$SCRIPTPATH/setup.sh" -i sickrage
+source "$SCRIPTPATH/setup.sh" -i sickchill
 # source "$SCRIPTPATH/setup.sh" -x sickrage
-source "$SCRIPTPATH/setup.sh" -u sickrage
+source "$SCRIPTPATH/setup.sh" -u sickchill
 source "$SCRIPTPATH/setup.sh" -i sonarr
 # source "$SCRIPTPATH/setup.sh" -x sonarr
 source "$SCRIPTPATH/setup.sh" -u sonarr
