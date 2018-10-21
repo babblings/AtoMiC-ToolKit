@@ -37,8 +37,8 @@ if [[ $exitstatus = 0 ]]; then
             source "$SCRIPTPATH/radarr/radarr-menu.sh" ;;
         "SickGear" )
             source "$SCRIPTPATH/sickgear/sickgear-menu.sh" ;;
-        "SickRage" )
-            source "$SCRIPTPATH/sickrage/sickrage-menu.sh" ;;
+        "SickChill" )
+            source "$SCRIPTPATH/sickchill/sickchill-menu.sh" ;;
         "Sonarr" )
             source "$SCRIPTPATH/sonarr/sonarr-menu.sh" ;;
         "Watcher" )
