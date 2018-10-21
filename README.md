@@ -13,18 +13,6 @@ It takes significant amount of time and effort to develop AtoMiC ToolKit. With t
 <h2>Support AtoMiC ToolKit Development</h2>
 We have put in several hundred hours of work into developing AtoMiC ToolKit. If it helped you please consider donating. All donations will be used only for AtoMiC ToolKit development.
 
-<table>
-<tr>
-<th style="text-align:center">BitCoin</th>
-<th style="text-align:center">PayPal</th>
-</tr>
-<tr>
-<td style="text-align:center">1FEgpS3WrK51yzJpqrSo3RXcrLDGztqKPy<br />
-<img src="http://www.htpcbeginner.com/images/2016/02/hb-bitcoin74x75.png" width="74" height="75" /></td>
-<td style="text-align:center"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PEVRBUVEW92KQ" target="_blank"><img src="http://www.htpcbeginner.com/images/2016/02/hb-paypal128x75.png" width="128" height="75" /></a></td>
-</tr>
-</table>
-
 <h2>Compatibility</h2>
 Compatible with Latest Ubuntu and variants (Kubuntu, Xubuntu, Lubuntu) and Linux Mint. 
 Development will focus mainly on compatibility with current Ubuntu\Debian\Raspbian releases. 
